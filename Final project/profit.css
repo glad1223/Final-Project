@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(86, 41, 164, 0.382);
+}
+
+.top {
+    align-content: center;
+    background-position: top;
+    
+    
+}
+.topb {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-spacing: 5px;
+    
+}
+div {
+    background-color: rgba(59, 0, 142, 0.619);
+}

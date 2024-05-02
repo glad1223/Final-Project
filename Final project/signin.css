@@ -1,0 +1,16 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20%;
+    background-position: middle;
+    background-color: rgba(3, 180, 5, 0.703);
+}
+.abc {
+    margin: auto;
+    width: 40%;
+    padding: 16px;
+    margin-top: 16%;
+    margin-bottom: 20%;
+    background-color: rgba(93, 8, 101, 0.819);
+    border: 2px solid black;
+}
